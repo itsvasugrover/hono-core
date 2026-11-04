@@ -1,5 +1,8 @@
 # Hono Core
 
+> [!WARNING]
+> **This repository is now archived and read-only.** It is no longer actively maintained — no further commits, issues, or pull requests will be accepted. The code remains available for reference.
+
 Hono Core is a robust TypeScript library designed for building scalable, high-performance web applications and APIs. It leverages Bun as the primary runtime and package manager, ensuring fast execution, efficient dependency management, and modern development workflows.
 
 ## Features
@@ -119,3 +122,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Support
 
 For questions or support, please open an issue on the GitHub repository.
+
+---
+
+**Status**: ⚠️ No longer maintained — this repository has been archived and is read-only. The npm package `@vasugrover/hono-core` is deprecated.
